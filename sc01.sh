@@ -1,3 +1,3 @@
 #!/bin/bash
-mensagem="Bem-vindo à programação Shell"
+mensagem="Welcome to the Shell programming"
 echo $mensagem
