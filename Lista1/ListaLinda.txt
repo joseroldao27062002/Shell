@@ -1,0 +1,66 @@
+*** Arquivos e diretórios do diretorio .
+DiretorioTeste
+DiretorioTeste2
+ListaLinda.txt
+ls
+Questao01.sh
+Questao02.sh
+Questao03.sh
+Questao04.sh
+*** Arquivos e diretórios do diretorio ../..
+2021-10-23-16-41-42.087-VBoxSVC-2150.log
+2021-11-29 23-08-40.mkv
+2021-11-29 23-09-56.mkv
+2021-11-29 23-12-39.mkv
+2021-11-30 08-24-42.mkv
+2021-12-21 21-18-47.mkv
+2022-01-25 14-45-12.mkv
+2022-02-08 15-10-00.mkv
+4K Video Downloader
+4kvideodownloader.tar.bz2
+Área de Trabalho
+atividadesCyberSeguranca
+csharp
+cursoBootstrap
+Desktop
+Documentos
+Downloader
+Downloads
+exemplosMonitoria
+exemplosReforco
+exerciciosLinux
+exerciciosPython
+firstRepo
+Imagens
+jogoVelha
+jogoVelhaJava
+meuToken.txt
+Modelos
+Música
+packages-microsoft-prod.deb
+projetoFinalEstrutura1.zip
+projetoFinalEstrutura2.zip
+projetoFinalEstruturaRoldaoArielleTyroneEmanuel.zip
+projetoFinalEstrutura.zip
+ProjetoPOORoldãoEArielle.zip
+projetoPOOTyrone
+projetoPOOTyrone2.zip
+projetoPOOTyrone.zip
+projetoPOO.zip
+projetosPython
+pt
+Público
+reforcoHudson
+semana_05_monitoria
+ShScript
+snap
+teste.py
+TrabalhoEstruturaDeDados3.zip
+TrabalhoEstruturaDeDados.zip
+Tyrone
+Tyrone_20211380023.pkt
+Tyrone.zip
+videos
+videosReforco
+VirtualBox VMs
+youtubeDownloader
