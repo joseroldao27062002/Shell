@@ -10,4 +10,6 @@ echo "***Segunda maneira com o | (Pipe)***"
 resultado=`cat a.txt | bc`
 echo $resultado
 
+rm a.txt
+
 

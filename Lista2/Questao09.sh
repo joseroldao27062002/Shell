@@ -14,3 +14,5 @@ do
 done
 
 echo "soma: $soma"
+
+rm num.txt
