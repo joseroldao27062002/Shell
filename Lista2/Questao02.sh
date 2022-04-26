@@ -17,3 +17,4 @@ done
 
 echo "Arquivo com o maior número de linhas: $maiorArquivo"
 rm linhasArquivo.txt
+echo "Se a vida te der um limão faça uma limonada"
