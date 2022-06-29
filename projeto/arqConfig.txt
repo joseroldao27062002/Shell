@@ -1,0 +1,5 @@
+*** Arquivo de configuração do projeto ***
+
+10.0.51.108;ana;/home/ana;ana;/home/backups/10.0.51.108
+10.0.51.112;craudia;/home/craudia;craudia;/home/backups/10.0.51.112
+10.0.51.111;bob;/home/bob;bob;/home/backups/10.0.51.111

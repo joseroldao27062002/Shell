@@ -1,0 +1,26 @@
+[1;33mAção realizada às 07h:27m
+[0;32mSUCCESS: Transferência do host 10.0.51.108 do usuario ana feita com sucesso
+
+[1;33mAção realizada às 07h:30m
+[0;32mSUCCESS: Exbição de armazenamento feita com sucesso
+
+[1;33mAção realizada às 07h:31m
+[0;32mSUCCESS: Log 2022-06-29.log acessado com sucesso
+
+[1;33mAção realizada às 07h:33m
+[0;32mSUCCESS: Transferência do host 10.0.51.112 do usuario craudia feita com sucesso
+
+[1;33mAção realizada às 07h:33m
+[0;32mSUCCESS: Exbição de armazenamento feita com sucesso
+
+[1;33mAção realizada às 07h:34m
+[0;31mERROR: Transferência do host 10.0.51.1101 do usuario bob não feita com sucesso
+
+[1;33mAção realizada às 07h:34m
+[0;32mSUCCESS: Transferência do host 10.0.51.111 do usuario bob feita com sucesso
+
+[1;33mAção realizada às 07h:35m
+[0;32mSUCCESS: Exbição de armazenamento feita com sucesso
+
+[1;33mAção realizada às 07h:35m
+[0;32mSUCCESS: Log 2022-06-29.log acessado com sucesso
